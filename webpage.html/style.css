@@ -1,27 +1,31 @@
 html { 
-    background: url(https://wallpaperaccess.com/full/1445471.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+     background: url(https://wallpaperaccess.com/full/1445471.jpg) no-repeat center center fixed; 
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
   }
 
 body {font-family: "Times New Roman", Georgia, Serif;}
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display";
+h1 , h2 , h3 , h4 , h5  , h6 {
+  font-family: "playfair display"; 
+
   letter-spacing: 5px;
 }
 
 p{
-  color: aliceblue;
+  color: aliceblue; 
+
   font-size: large;
 }
 ::placeholder{
-  color: aliceblue;
+  color: aliceblue; 
+
 }
 input{
-  color:aliceblue
+  color:aliceblue;
 }
-#top{
+#top{ 
+
   background-color: black;
 }
